@@ -18,7 +18,7 @@
   <p align="center">
     New project for overwatch community!
     <br />
-    <a href="https://github.com/ldablju/overwatch-now-backend"><strong>Explore the docs »</strong></a>
+    <a href="http://overwatch.server916785.nazwa.pl/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="http://overwatch.server916785.nazwa.pl">View Demo</a>
