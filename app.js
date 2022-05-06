@@ -50,9 +50,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(multer({ storage, fileFilter, }).single('post'))
 
-app.get('/', (req, res, next) => {
-  res.sendFile(__dirname + '/views/index.html')
-})
 app.use('/home', indexRouter);
 app.use('/post', postRouter);
 app.use('/user', userRouter);
